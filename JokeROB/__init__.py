@@ -1,4 +1,4 @@
-import time
+8import time
 
 import heroku3
 
@@ -21,8 +21,8 @@ StartTime = time.time()
 JEPVERSION = "3.1.3"
 
 
-if Config.UPSTREAM_REPO == "jepthoniq":
-    UPSTREAM_REPO_URL = "https://github.com/jepthoniq/jepthon"
+if Config.UPSTREAM_REPO == "lllllllllooo":
+    UPSTREAM_REPO_URL = "https://github.com/lllllllllooo/Mortdal"
 else:
     UPSTREAM_REPO_URL = Config.UPSTREAM_REPO
 
